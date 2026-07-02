@@ -2,6 +2,14 @@
 # INVENTORY MANAGEMENT SYSTEM
 # FAC Academy - Complete Version
 # =====================================
+# GROUP 3 MEMBERS
+# =====================================
+# 1. Daisy Munga       - daisynmunga@gmail.com
+# 2. Tito Kinyambu     - titokilonzo3@gmail.com
+# 3. Amon Victor       - amon.victor.develops@gmail.com
+# 4. Felix Kuria       - felixkuria12@gmail.com
+# 5. Rahab Majira
+# =====================================
 
 # --- Sample inventory data (list of dicts) ---
 inventory = [
